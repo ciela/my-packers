@@ -42,9 +42,9 @@
     },
     {
       "type": "ansible-local",
-      "playbook_file": "../my-ansibles/packer-centos7.yml",
+      "playbook_file": "../ansibles/packer-centos7.yml",
       "role_paths": [
-        "../my-ansibles/roles/common"
+        "../ansibles/roles/common"
       ],
       "extra_arguments": "-v"
     }
