@@ -1,6 +1,3 @@
-[submodule "my-ansibles"]
-	path = my-ansibles
-	url = git@github.com:ciela/my-ansibles.git
 [submodule "ansibles"]
 	path = ansibles
 	url = git@github.com:ciela/ansibles.git
